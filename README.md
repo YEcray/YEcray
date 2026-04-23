@@ -12,7 +12,7 @@ I have not shown my work before on GitHub and I am exited to.
 
 You can contact me through my [Discord](https://discord.com/users/1382863062591078400). I am happy to do freelance.
 
-I can code in Python, Java, JavaScript, Html, & C#. Im Currently learning C++.
+I can code in C#, Java, Python, C, & Html. Learning C++
 
 ---
 
