@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**YEcray/YEcray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Cray aka YEcray, I am the lead scripter for **Space Expidition** - A VR game, & Discord Dev for [MonarchVisuals](https://discord.gg/k4EsFpz4T8)
 
-Here are some ideas to get you started:
+I have expirience in Discord Development, Minecraft Moding, & scripting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have not shown my work before on GitHub and I am exited to.
+
+---
+
+### Work
+
+You can contact me through my [Discord](https://discord.com/users/1382863062591078400). I am happy to do freelance.
+
+I can code in Python, Java, JavaScript, Html, & C#. Im Currently learning C++.
+
+---
+
+### About Me
+
+🐶 I love dogs
+
+🏞️ I love Hiking
+
+💻 I love Coding
+
+📸 I love Photography
+
