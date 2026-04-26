@@ -14,6 +14,8 @@ You can contact me through my [Discord](https://discord.com/users/13828630625910
 
 I can code in C#, Java, Python, C, & Html. Learning C++
 
+Credit for the work that you recive goes to [Rayle](https://github.com/riley010510) and myself.
+
 ---
 
 ### About Me
