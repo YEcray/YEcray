@@ -27,3 +27,6 @@ I can code in C#, Java, Python, C, & Html. Learning C++
 📸 I love Photography
 
 📖 I love to Read
+
+🏎️ I love Motor Sport
+- 🧍Fornado my goat
