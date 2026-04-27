@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Cray aka YEcray, I am a scripter for **Space Expidition** - A VR game, & Discord Dev for [MonarchVisuals](https://discord.gg/k4EsFpz4T8)
+Im Cray aka YEcray, I am a developer at [Technigear](https://discord.gg/5A2ETjQWfZ) - A VR game, & Discord Dev for [MonarchVisuals](https://discord.gg/k4EsFpz4T8)
 
 I have expirience in Discord Development, Minecraft Moding, & scripting.
 
