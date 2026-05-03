@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Im Cray aka YEcray, I am a developer at [Technigear](https://discord.gg/5A2ETjQWfZ) - A VR game, & Discord Dev for [MonarchVisuals](https://discord.gg/k4EsFpz4T8)
+Im Cray aka YEcray, I am a developer at [ARIOR](https://discord.gg/5A2ETjQWfZ) - A Roblox game, & Discord Dev for [MonarchVisuals](https://discord.gg/k4EsFpz4T8)
 
-I have expirience in Discord Development, Minecraft Moding, & scripting.
+I have expirience in Discord Development, Minecraft Moding, Game Deving, & scripting.
 
 I have not shown my work before on GitHub and I am exited to.
 
